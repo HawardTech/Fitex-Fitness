@@ -1,6 +1,6 @@
 # Fitex Source Code
 
-![Project Screenshot]([path/to/your-screenshot.png](https://github.com/HawardTech/A-Responsive-Fitness-Website-Responsive-Website/blob/main/fitex.png))
+![Project Screenshot]([https://github.com/HawardTech/A-Responsive-Fitness-Website-Responsive-Website/blob/main/fitex.png])
 
 ---
 
