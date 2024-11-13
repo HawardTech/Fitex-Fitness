@@ -64,4 +64,4 @@ Stay connected with us through our social media channels:
 
 ## License
 
-This project is licensed under the [Your License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed  - see the [LICENSE](LICENSE) file for details.
